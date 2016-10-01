@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="128" />
   <codeStyleSettings language="ruby">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="INDENT_WHEN_CASES" value="false" />
