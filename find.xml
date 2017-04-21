@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,12 +17,13 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.tsx</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
